@@ -55,5 +55,6 @@ This is a simple slide and catch game with an arcade/pixel space theme. Users co
 
 ## Intellectual Property
 * **Fuel:** Image taken from pixelart https://www.pixilart.com/draw/gas-can-0d8faf0067e0f64
+* **Background Image:** Image created by me using pixilart
 * **Ship:** Image made by me using pixilart
 * **Collecting Fuel:** Sound taken from Freesound https://freesound.org/people/Romeo_Kaleikau/sounds/588251/
